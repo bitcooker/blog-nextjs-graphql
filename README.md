@@ -1,11 +1,6 @@
 # My Blog Site
 
-## see the project [here](https://my-tutorial-blog.vercel.app/).
-
-### 1. [Key Features](#key-features) 
-
-### 2. [Technologies I've used](#technologies-ive-used)
-
+![Landing](https://user-images.githubusercontent.com/128102810/228611160-65b6b115-e2fe-4a96-a485-f1783daf4f4a.PNG)
 
 ## Key Features:
 
