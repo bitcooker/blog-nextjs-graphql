@@ -1,6 +1,6 @@
 # My Blog Site
 
-![Landing](https://user-images.githubusercontent.com/128102810/228612763-a8b77d3c-78b8-4f26-bbdb-87e53568383f.PNG)
+![Landing](https://user-images.githubusercontent.com/128102810/228613548-d479db9d-2ba6-4c5e-bcf4-01eea6d8f3f1.PNG)
 
 ## Key Features:
 
